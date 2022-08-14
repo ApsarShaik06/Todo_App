@@ -1,0 +1,30 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "\"First project of node\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo\\\"Error: no test specified\" && ecit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApsarShaik06/Todo_App.git"
+  },
+  "keywords": [
+    "todo",
+    "app"
+  ],
+  "author": "Apsar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ApsarShaik06/Todo_App/issues"
+  },
+  "homepage": "https://github.com/ApsarShaik06/Todo_App#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "font-awesome": "^4.7.0",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19"
+  }
+}
